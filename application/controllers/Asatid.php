@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Asatid extends CI_Controller {
-
+	//test ignore
 	public function __construct()
 	{
 		parent::__construct();
